@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Marc Nguyen</h1>
-<h3 align="center">A passionate frontend developer from Vietnam</h3>
+<h1 align="center">Hi 👋, I'm Marc Nguyen :boy:</h1>
+<h3 align="center">A passionate frontend developer from Vietnam :heart:</h3>
 <img width="250" alt="coding "align="right"src="https://github.com/vanbeonhv/vanbeonhv/blob/main/Coding%20boy.png">
 
 - 🔭 I’m currently working on backend team of project [Essential-backend](https://github.com/Southern-Discoveries/essential-backend.git)
