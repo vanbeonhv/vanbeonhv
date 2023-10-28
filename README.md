@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer from Vietnam :heart:</h3>
 <img width="250" alt="coding "align="right"src="https://github.com/vanbeonhv/vanbeonhv/blob/main/Coding%20boy.png">
 
-- 🔭 I’m currently working on backend team of project [Essential-backend](https://github.com/Southern-Discoveries/essential-backend.git)
+[//]: <> - 🔭 I’m currently working on backend team of project [Essential-backend](https://github.com/Southern-Discoveries/essential-backend.git)
 
-- 🌱 I’m currently learning **Nestjs**
+[//]: <> - 🌱 I’m currently learning **Dot Net**
 
 <h3 align="left">Connect with me:</h3>
 
