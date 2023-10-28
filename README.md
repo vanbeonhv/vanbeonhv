@@ -4,7 +4,7 @@
 
 [//]: <> (- 🔭 I’m currently working on backend team of project [Essential-backend](https://github.com/Southern-Discoveries/essential-backend.git))
 
-[//]: <> (- 🌱 I’m currently learning **Dot Net**)
+[//]: <> (- 🌱 I’m currently learning **Dot Net** )
 
 <h3 align="left">Connect with me:</h3>
 
