@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Vietnam :heart:</h3>
 <img width="250" alt="coding "align="right"src="https://github.com/vanbeonhv/vanbeonhv/blob/main/Coding%20boy.png">
 
-- 🔭 I’m currently working on the backend team of the project [Essential-backend](https://github.com/Southern-Discoveries/essential-backend.git)
+[//]: # (- 🔭 I’m currently working on the backend team of the project [Essential-backend]&#40;https://github.com/Southern-Discoveries/essential-backend.git&#41;)
 
 [//]: <> ( - 🌱 I’m currently learning **Dot Net** )
 
