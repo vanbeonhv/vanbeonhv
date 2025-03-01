@@ -12,7 +12,7 @@
 
 <p align="left">
   <a
-    href="https://www.linkedin.com/in/v%c4%83n-nguy%e1%bb%85n-358a69175/"
+    href="https://www.linkedin.com/in/van-nguyen-huu-358a69175"
     target="blank"
     ><img
       align="center"
@@ -125,7 +125,7 @@
   <img
     width="380"
     align="right"
-    src="https://leetcode.card.workers.dev/nguyenvannhv26?theme=auto&font=baloo&extension=null"
+    src="https://leetcard.jacoblin.cool/nguyenvannhv26?theme=catppuccinMocha&font=Work%20Sans"
     alt="vanbeonhv"
   />
 </p>
